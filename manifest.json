@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Save Your Link",
+  "version": "1.0",
+  "description": "Save Your Favourite link in the Local Storage!",
+  "action": {
+    "default_icon": "favicon.png",
+    "default_popup": "index.html",
+    "default_title": "Save Links"
+  },
+  "permissions": ["tabs"]
+}
